@@ -1,0 +1,11 @@
+{
+  "name": "toml_to_json",
+  "version": "0.1.0",
+  "files": [
+    "toml_to_json_bg.wasm",
+    "toml_to_json.js",
+    "toml_to_json.d.ts"
+  ],
+  "browser": "toml_to_json.js",
+  "types": "toml_to_json.d.ts"
+}
